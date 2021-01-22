@@ -4,7 +4,7 @@
 </h1>
 
 ## Objetivo
-Curso que apresenta a construção de visualização de dados usando a linguagem de programação Python e a biblioteca Pyplot
+Conteúdo e exercícios resolvidos do curso básico de Data Sciencie da Udemy que apresenta a construção de visualização de dados usando a linguagem de programação Python e a biblioteca Pyplot
 
 ## Tecnologias / Ferramentas / Bibliotecas
 - Python
